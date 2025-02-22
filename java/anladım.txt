@@ -1,2 +1,3 @@
 klasörün içi boş olunca git status'ta çıkmıyor, o yüzden görmemiş benim klasörleri
 nihahah // kötü kadın gülüşü evt
+
